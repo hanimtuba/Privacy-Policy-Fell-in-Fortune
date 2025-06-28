@@ -2,7 +2,7 @@
 
 ## 📌 Introduction
 
-This privacy policy applies to the **Fell in Fortune** mobile application ("Application") developed by **Tuğba AYHAN** ("Service Provider") as a free service. This Application is provided **"AS IS"** and is intended to offer various fortune-related features such as coffee fortune reading, tarot cards, name analysis, zodiac insights, and compatibility analysis — all powered by **AI APIs**.
+This privacy policy applies to the **Fell in Fortune** mobile application ("Application") developed by **Tuğba AYHAN** ("Service Provider") as a free service. This Application is provided **"AS IS"** and is intended to offer various fortune-related powered by **AI APIs**.
 
 ---
 
